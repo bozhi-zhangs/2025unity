@@ -411,6 +411,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3498324047595648896}
     m_Modifications:
+    - target: {fileID: 5273038614109134642, guid: 1033340280ae6e54fb2834e32104778e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6a35e9d23fc8d2c40b65eee5c3d42a23, type: 2}
     - target: {fileID: 6291897785071623607, guid: 1033340280ae6e54fb2834e32104778e, type: 3}
       propertyPath: m_Name
       value: logo_slogan
@@ -513,8 +517,244 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ed093621d8d342e9b74c757be4c323b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  trackerCam: {fileID: 0}
+  trackerCam: {fileID: 540340421322071814}
   imageTargets:
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
+  - id: logo_slogan
+    transform: {fileID: 2007204787431433151}
+    targetPos: {x: 0, y: 0, z: 0}
+    targetRot: {x: 0, y: 0, z: 0, w: 0}
   - id: logo_slogan
     transform: {fileID: 2007204787431433151}
     targetPos: {x: 0, y: 0, z: 0}
